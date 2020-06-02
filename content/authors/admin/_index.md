@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 张博
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 大连交通大学 机械工程学院 硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "zhangbo_1996@qq.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
