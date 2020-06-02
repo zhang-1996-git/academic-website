@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Degree/n School of Mechanical Engineering
+role: Master's Degree, School of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
