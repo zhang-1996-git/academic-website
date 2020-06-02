@@ -11,8 +11,8 @@ superuser: true
 
 # Role/position
 role: Master's Degree
-School of Mechanical Engineering
-Dalian Jiaotong University
+role: School of Mechanical Engineering
+role: Dalian Jiaotong University
 
 # Organizations/Affiliations
 organizations:
