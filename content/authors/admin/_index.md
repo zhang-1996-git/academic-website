@@ -10,7 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Degree, School of Mechanical Engineering, Dalian Jiaotong University
+role: Master's Degree
+School of Mechanical Engineering
+Dalian Jiaotong University
 
 # Organizations/Affiliations
 organizations:
