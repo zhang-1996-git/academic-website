@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张博
+title: Zhang Bo
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 大连交通大学 机械工程学院 硕士研究生
+role: Master's Degree, School of Mechanical Engineering, Dalian Jiaotong University
 
 # Organizations/Affiliations
 organizations:
