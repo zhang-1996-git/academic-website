@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Degree, School of Mechanical Engineering
+role: Master's Degree/n School of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
 - name: Dalian Jiaotong University
-  url: ""
+  url: "http://www.djtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: zhangbo_1996@qq.com'#contact'  # For a direct email link, use "zhangbo_1996@qq.com".
+  link: '#contact'  # For a direct email link, use "zhangbo_1996@qq.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhangbo_1996@qq.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
